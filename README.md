@@ -1,2 +1,2 @@
-# deviousgg
-Devious Community Team Development Project Cluster Repo
+# fastify-devious.gg
+ repostory for devious.gg
